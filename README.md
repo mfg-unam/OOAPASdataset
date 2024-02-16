@@ -3,7 +3,7 @@ El sitio web del Organismo Operador de Agua Potable, Alcantarillado y Saneamient
 
 Un equipo de investigación de la Universidad Nacional Autónoma de México nos hemos dado a la tarea de solicitar datos directamente a la dependencia a través de ley de acceso a la información pública. La solicitud se ha realizado en tres diferentes años (2012, 2017, 2023). En cada caso se ha obtenido una respuesta distinta, tanto en formato como en calidad. La información recibida se encuentra en este repositorio. Vale la pena señalar que los archivos correspondientes a 2012 se recibieron en papel; lo que se presenta aquí es una transcripción de la información. 
 
-Los datos y la investigación en torno a ellos se presentan en el marco de un proyecto de Feminismo de datos (https://sites.google.com/view/feminismo-de-datos/inicio), a cargo de la Dra. Marcela Morales (mmorales@enesmorelia.unam.mx). 
+Los datos y la investigación en torno a ellos se presentan en el marco de un proyecto de Feminismo de datos (https://sites.google.com/view/feminismo-de-datos/inicio), a cargo de la Dra. Marcela Morales (ENES-Morelia). 
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -11,4 +11,4 @@ The website of the Water Supply, Sewerage, and Sanitation Operating Agency of Mo
 
 A research team from the National Autonomous University of Mexico has undertaken the task of directly soliciting data from the agency through the Freedom of Information Act. This request has been made in three different years (2012, 2017, 2023). In each instance, varying responses have been obtained, both in format and quality. The received information is available in this repository. It is noteworthy that the files corresponding to 2012 were received in hardcopy format; what is presented here is a transcription of the information.
 
-The data and the research surrounding them are presented within the framework of a Data Feminism project (https://sites.google.com/view/feminismo-de-datos/inicio), under the direction of Dr. Marcela Morales (mmorales@enesmorelia.unam.mx).
+The data and the research surrounding them are presented within the framework of a Data Feminism project (https://sites.google.com/view/feminismo-de-datos/inicio), under the direction of Dr. Marcela Morales (ENES-Morelia).
